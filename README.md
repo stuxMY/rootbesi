@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-Welcome to my GitHub universe! 🌌 I'm [Your Name], a passionate [Your Profession/Interest] who loves to explore the realms of technology and creativity. This GitHub profile serves as my digital playground where I tinker, create, and collaborate on exciting projects.
+Welcome to my GitHub universe! 🌌 I'm yours mom, a passionate tutuh mak hang who loves to explore the realms of technology and creativity. This GitHub profile serves as my digital playground where I tinker, create, and collaborate on exciting projects.
 
 ## About Me 🚀
 
