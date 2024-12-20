@@ -1,34 +1,31 @@
-# Hello, World! 👋
+### Hi there 👋
 
-Welcome to my GitHub universe! 🌌 I'm yours mom, a passionate tutuh mak hang who loves to explore the realms of technology and creativity. This GitHub profile serves as my digital playground where I tinker, create, and collaborate on exciting projects.
+My name is  /stuxMY
 
-## About Me 🚀
+### Contact me
 
-- 💻 I'm proficient in [Your Programming Languages/Technologies].
-- 📚 I'm constantly learning and expanding my knowledge in [Your Areas of Interest].
-- ✨ I believe in the power of open source and collaborative development.
-- 🎨 I enjoy crafting beautiful and functional software solutions.
+- <https://github.com//stuxMY>
 
-## What I Do 🛠️
 
-- 🌟 Building [Describe Your Projects or Contributions].
-- 🚀 Contributing to open source projects.
-- 💬 Sharing insights and knowledge through blog posts and tutorials.
-- 🌐 Creating engaging content on [Your Social Media Platforms].
 
-## Get in Touch 📫
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuxMY&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔗 Connect with me on [LinkedIn](Your LinkedIn Profile URL).
-- 🐦 Follow me on [Twitter](Your Twitter Profile URL).
-- 📝 Read my articles on [Medium](Your Medium Profile URL).
-- 📧 Drop me an email at [Your Email Address].
+[![Dino's github stats](https://github-readme-stats.vercel.app/api?username=stuxMY&show_icons=false&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Stats 📊
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=stuxMY&width=1000&height=200)
+<!--
+**stuxMY//rootbesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Let's Collaborate! 🤝
+Here are some ideas to get you started:
 
-I'm always excited to collaborate on interesting projects and ideas. Feel free to reach out and let's create something amazing together! 🌟
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
